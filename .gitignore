@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.*
+*.log
+
+# Vite
+.vite/
+dist/
+
+# MongoDB
+data/
+
+# Misc
+.DS_Store
+*.swp
