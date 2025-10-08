@@ -1,5 +1,5 @@
 {
-  "name": "mern-server",
+  "name": "football-players-server",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -8,11 +8,12 @@
     "install:deps": "npm install express@latest mongoose@latest dotenv@latest cors@latest jsonwebtoken@latest && npm install -D nodemon@latest"
   },
   "dependencies": {
-    "express": "latest",
-    "mongoose": "latest",
-    "dotenv": "latest",
     "cors": "latest",
-    "jsonwebtoken": "latest"
+    "dotenv": "latest",
+    "duckduckgo-images-api": "^1.0.5",
+    "express": "latest",
+    "jsonwebtoken": "latest",
+    "mongoose": "latest"
   },
   "devDependencies": {
     "nodemon": "latest"

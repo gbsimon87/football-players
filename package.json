@@ -1,5 +1,6 @@
 {
-  "name": "mern-template",
+  "name": "football-players-template",
+  "type": "module",
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
