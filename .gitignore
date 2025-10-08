@@ -10,7 +10,7 @@ dist/
 dist/
 
 # MongoDB
-data/
+server/data/
 
 # Misc
 .DS_Store
