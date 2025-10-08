@@ -1,4 +1,4 @@
-import mockPlayers from "../data/mockPlayers";
+import mockPlayers from "../data/mockPlayers.js";
 import PlayerCard from "./PlayerCard";
 
 const PlayerList = ({ selectedCountry, selectedYear }) => {
